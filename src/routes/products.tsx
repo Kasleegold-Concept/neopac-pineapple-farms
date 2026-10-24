@@ -2,7 +2,7 @@ import { createFileRoute, Link } from "@tanstack/react-router";
 import {
   Apple,
   ArrowRight,
-  Basket,
+  ShoppingBasket as Basket,
   BookOpen,
   CalendarHeart,
   Citrus,
@@ -13,7 +13,7 @@ import {
   HardHat,
   Milk,
   Recycle,
-  Seedling,
+  Sprout as Seedling,
   ShoppingBag,
   Sparkles,
   Sprout,
