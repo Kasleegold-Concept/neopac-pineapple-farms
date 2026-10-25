@@ -7,6 +7,7 @@ const explore = [
   { to: "/about", label: "About Us" },
   { to: "/services", label: "Our Services" },
   { to: "/products", label: "Farm Products" },
+  { to: "/contact", label: "Contact Us" },
 ];
 
 const services = [
